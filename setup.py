@@ -5,7 +5,7 @@ __author__ = 'Quantumobile'
 
 install_requires = ['google-cloud-storage==1.32.0',
                     'geopandas==0.8.1',
-                    'Rtree==0.9.4', ]
+                    'Rtree==1.0.1', ]
 
 setup(
     name='sentinel2tools',
